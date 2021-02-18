@@ -101,11 +101,7 @@ GEM
     msgpack (1.4.2)
     mysql2 (0.5.3)
     nio4r (2.5.5)
-first_training
     nokogiri (1.11.1-x86_64-darwin)
-    nokogiri (1.11.1)
-      mini_portile2 (~> 2.5.0)
-master
       racc (~> 1.4)
     pry (0.14.0)
       coderay (~> 1.1)
